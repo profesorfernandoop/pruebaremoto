@@ -1,0 +1,2 @@
+Creo un archivo en remoto previo a la subida desde el local con git push. En este caso habrá que ver como se mueve
+la rama local origin/main. Igual no pueden moverse los punteros.
