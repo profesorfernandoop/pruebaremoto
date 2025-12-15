@@ -1,0 +1,2 @@
+Archivo remoto que simboliza una aportacion por parte de un miembro del equipo de proyecto.
+Necesitamos sincronizar nuestro respositorio local para incluir este archivo.
