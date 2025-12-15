@@ -1,0 +1,1 @@
+Creamos el archivo remoto.txt para ver como detectarlo en el repositorio local.
